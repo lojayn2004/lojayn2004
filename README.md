@@ -23,13 +23,10 @@
 ### 📊 Competitive Programming  
 - 💡 **Codeforces:** [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/lojayn_khaled)  
 - 🎯 **LeetCode:** [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/lojayn/)  
-
-
-
 ---
 
 ### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lojayn2004&show_icons=true&theme=dark)  
 
 ---
 
