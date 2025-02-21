@@ -37,6 +37,10 @@
 
 ---
 
+### 📊 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lojayn2004&theme=dark)
+
+
 ### 🌍 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lojayn-elkashif-4b3200312/)  
