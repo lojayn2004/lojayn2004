@@ -35,10 +35,6 @@
 
 ![Lojayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
 
----
-
-### 📊 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lojayn2004&theme=dark)
 
 
 ### 🌍 Connect With Me  
