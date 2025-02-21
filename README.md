@@ -33,7 +33,7 @@
 
 ### 📊 GitHub Stats  
 
-![Lojayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
+![Lojayn's GitHub stats](https://github-readme-stats.vercel.app/api?username=lojayn2004&show_icons=true&theme=dark)  
 
 
 
