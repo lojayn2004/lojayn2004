@@ -3,7 +3,7 @@
 ### 🚀 About Me  
 - 🎓 Computer Science Student  
 - 💻 Interested in Backend Development, Data Structures & Algorithms  
-- 🎓 Third-year Computer Science Student  
+- 🎓 Final-year Computer Science Student  
 - 🌱 Currently learning **ASP.NET Core**  
 - 📫 Reach me at **lojaynk@gmail.com**  
 
